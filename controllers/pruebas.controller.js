@@ -2,7 +2,7 @@
 
 const pruebaGet = async(req, res) => {
     res.json({
-        msg: 'GET - Controller'
+        msg: 'Andres Felipe hernandez Caicedo 1151477'
     })
 }
 
